@@ -3,7 +3,7 @@ This is single page design only UI for pratice purpose (HTML & CSS).
 
 # How to run
 ```bash
-git clone 
+git clone git@github.com:lwinmoe51/MyFirstWebPage_Robot.git
 ```
 - go to project folder
 
